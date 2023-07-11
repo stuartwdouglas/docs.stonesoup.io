@@ -39,6 +39,7 @@ All interactions with the JVM Build Service require you to be logged into the Op
 .Procedure
 
 * Copy the login command from: https://registration-service-toolchain-host-operator.apps.stone-prd-host1.wdlc.p1.openshiftapps.com/
+* Run the copied command in a terminal window
 
 === Setting up the CLI
 
